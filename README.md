@@ -36,3 +36,8 @@ https://newsapi.org/v2/everything?q=mundial2026&language=es&pageSize=5&apiKey=12
 https://newsapi.org/v2/everything?q=sismo&language=es&pageSize=5&apiKey=123abc
 
 donde q es el tema de interes y language el idioma
+
+
+## Comentarios en clases metodos y funciones
+
+Genera comentarios breves y concisos siempre a nivel clase, metodos y funciones de una o maximo dos lineas
